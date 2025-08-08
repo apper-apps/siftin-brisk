@@ -135,22 +135,22 @@
     "connection_level": "3rd",
     "notes": "Pioneering new lead gen strategies"
   },
-  {
+{
     "Id": 9,
-    "full_name": "Jordan Blake",
-    "headline": "Senior SDR Manager at CloudNova",
-    "company": "CloudNova",
-    "company_size": "51–200",
-    "industry": "SaaS",
-    "location": "New York, NY",
-    "linkedin_url": "https://linkedin.com/in/jordanblake2",
-    "profile_img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
-    "match_score": 88,
-    "match_reason": "Promoted SDR manager, same company as lead #1",
-    "tags": ["Hot Lead", "SaaS", "Duplicate"],
+    "full_name": "Chris Anderson",
+    "headline": "VP Sales Development at ScaleUp",
+    "company": "ScaleUp",
+    "company_size": "101–200",
+    "industry": "Sales Enablement",
+    "location": "Salt Lake City, UT",
+    "linkedin_url": "https://linkedin.com/in/chrisanderson",
+    "profile_img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150",
+    "match_score": 94,
+    "match_reason": "VP of Sales Development - perfect match",
+    "tags": ["VP", "Sales Enablement"],
     "email_status": "Found",
-    "connection_level": "2nd",
-    "notes": "Recently promoted version - potential duplicate"
+    "connection_level": "1st",
+    "notes": "Leading SDR org at sales enablement company"
   },
   {
     "Id": 10,
@@ -338,7 +338,7 @@
     "email_status": "Found",
     "connection_level": "1st",
     "notes": "Large team management experience"
-  },
+},
   {
     "Id": 21,
     "full_name": "Maya Singh",
@@ -409,23 +409,6 @@
   },
   {
     "Id": 25,
-    "full_name": "Priya Shah",
-    "headline": "VP Sales Development at FinPilot",
-    "company": "FinPilot",
-    "company_size": "201–500",
-    "industry": "Fintech SaaS",
-    "location": "Remote (US)",
-    "linkedin_url": "https://linkedin.com/in/priyashah-vp",
-    "profile_img": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150",
-    "match_score": 93,
-    "match_reason": "Promoted to VP - same person as lead #2",
-    "tags": ["High Priority", "Remote", "Duplicate"],
-    "email_status": "Found",
-    "connection_level": "2nd",
-    "notes": "Recently promoted - potential duplicate"
-  },
-  {
-    "Id": 26,
     "full_name": "Carlos Rodriguez",
     "headline": "Lead Qualification Manager at ProspectPro",
     "company": "ProspectPro",
@@ -442,7 +425,7 @@
     "notes": "Focus on MQL to SQL conversion optimization"
   },
   {
-    "Id": 27,
+    "Id": 26,
     "full_name": "Hannah Davis",
     "headline": "Revenue Operations Analyst at GrowthMetrics",
     "company": "GrowthMetrics",
@@ -459,7 +442,7 @@
     "notes": "Analyzes SDR metrics and conversion rates"
   },
   {
-    "Id": 28,
+    "Id": 27,
     "full_name": "Jacob Thompson",
     "headline": "Senior Account Executive at SalesStack",
     "company": "SalesStack",
@@ -476,7 +459,7 @@
     "notes": "Strong closer, considering management track"
   },
   {
-    "Id": 29,
+    "Id": 28,
     "full_name": "Victoria Chang",
     "headline": "Demand Generation Manager at LeadMachine",
     "company": "LeadMachine",
@@ -493,7 +476,7 @@
     "notes": "Generates high-quality leads for sales team"
   },
   {
-    "Id": 30,
+    "Id": 29,
     "full_name": "Daniel Kim",
     "headline": "Inside Sales Team Lead at ConvertMax",
     "company": "ConvertMax",
