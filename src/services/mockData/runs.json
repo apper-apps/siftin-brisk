@@ -1,0 +1,46 @@
+[
+  {
+    "Id": 1,
+    "label": "Run – SDR Managers (US) – Aug 8",
+    "created_at": "2024-08-08T14:30:00Z",
+    "created_by": "John Doe",
+    "source_url": "https://www.linkedin.com/search/results/people/?keywords=SDR%20manager&geoUrn=%5B%22103644278%22%5D",
+    "criteria_text": "US-based SDR managers at B2B SaaS companies (11–200 employees), preferably using HubSpot or Salesforce",
+    "status": "Completed",
+    "found_count": 142,
+    "selected_count": 63
+  },
+  {
+    "Id": 2,
+    "label": "Run – Fintech Founders NYC",
+    "created_at": "2024-08-07T10:15:00Z",
+    "created_by": "John Doe",
+    "source_url": "https://www.linkedin.com/search/results/people/?keywords=founder%20fintech&geoUrn=%5B%22105080838%22%5D",
+    "criteria_text": "Founders in fintech, Series A–B funding stage, located in NYC or working remotely",
+    "status": "Draft",
+    "found_count": 28,
+    "selected_count": 0
+  },
+  {
+    "Id": 3,
+    "label": "Run – VP Sales B2B SaaS",
+    "created_at": "2024-08-06T16:45:00Z",
+    "created_by": "John Doe",
+    "source_url": "https://www.linkedin.com/search/results/people/?keywords=VP%20Sales&industry=software",
+    "criteria_text": "VP of Sales at B2B SaaS companies with 50-500 employees, focusing on enterprise sales",
+    "status": "Completed",
+    "found_count": 87,
+    "selected_count": 34
+  },
+  {
+    "Id": 4,
+    "label": "Run – RevOps Leaders",
+    "created_at": "2024-08-05T09:20:00Z",
+    "created_by": "John Doe", 
+    "source_url": "https://www.linkedin.com/search/results/people/?keywords=revenue%20operations&title=director%2Cvp%2Chead",
+    "criteria_text": "Revenue Operations leaders (Director, VP, Head) at high-growth SaaS companies",
+    "status": "Failed",
+    "found_count": 0,
+    "selected_count": 0
+  }
+]
