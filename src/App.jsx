@@ -4,6 +4,7 @@ import { ToastContainer } from "react-toastify";
 import Layout from "@/components/organisms/Layout";
 import NewCapture from "@/components/pages/NewCapture";
 import Runs from "@/components/pages/Runs";
+import Results from "@/components/pages/Results";
 import Leads from "@/components/pages/Leads";
 import Exports from "@/components/pages/Exports";
 import Integrations from "@/components/pages/Integrations";
@@ -11,7 +12,6 @@ import Settings from "@/components/pages/Settings";
 import Help from "@/components/pages/Help";
 import RunDetails from "@/components/pages/RunDetails";
 import { ThemeProvider } from "@/hooks/useTheme";
-
 function App() {
   return (
     <ThemeProvider>
@@ -22,7 +22,8 @@ function App() {
               <Route index element={<NewCapture />} />
               <Route path="new-capture" element={<NewCapture />} />
               <Route path="runs" element={<Runs />} />
-              <Route path="runs/:id" element={<RunDetails />} />
+<Route path="runs/:id" element={<RunDetails />} />
+              <Route path="results/:runId" element={<Results />} />
               <Route path="leads" element={<Leads />} />
               <Route path="exports" element={<Exports />} />
               <Route path="integrations" element={<Integrations />} />

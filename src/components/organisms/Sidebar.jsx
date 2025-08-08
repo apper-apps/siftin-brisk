@@ -4,9 +4,10 @@ import { cn } from "@/utils/cn";
 import ApperIcon from "@/components/ApperIcon";
 
 const Sidebar = ({ isOpen, onClose }) => {
-  const navigation = [
+const navigation = [
     { name: "New Capture", href: "/new-capture", icon: "Plus" },
     { name: "Runs", href: "/runs", icon: "Play" },
+    { name: "Results", href: "/results/1", icon: "Search" },
     { name: "Leads", href: "/leads", icon: "Users" },
     { name: "Exports", href: "/exports", icon: "Download" },
     { name: "Integrations", href: "/integrations", icon: "Puzzle" },
